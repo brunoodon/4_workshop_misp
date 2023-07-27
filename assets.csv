@@ -1,0 +1,50 @@
+application,version,ip,hostname,dep
+Exchange Server,2016,172.16.0.20,mail.fakecomp.com,TI
+Apache HTTP Server,2.4,172.16.0.21,www.fakecomp.com,TI
+Apache HTTP Server,2.4.50,172.16.0.21,soar.fakecom.com,Segurança Cibernética
+Chrome,10.0,10.0.0.152,desktop04,Vendas
+Chrome,9.0,192.168.1.12,desktop20,Laboratório
+Chrome,12.0,192.168.7.34,dp04,RH
+Chromium,10.0,10.0.0.150,desktop01,Vendas
+Chromium,10.0,10.0.0.151,desktop02,Vendas
+Chromium,9.0,10.0.0.152,desktop04,Vendas
+ESXi,6.0,10.30.2.200,virt-02,TI
+macOS,10.15.7,10.0.0.240,desktop50,Vendas
+macOS,10.15.7,10.0.0.241,desktop51,Vendas
+macOS,10.15.7,10.0.0.242,desktop52,Vendas
+macOS,10.15.7,10.0.0.243,desktop53,Vendas
+macOS,10.15.7,10.0.0.244,desktop54,Vendas
+F5 BIG-IP,,172.16.0.1,fw.fakecomp.com,TI
+Firefox,firefox:19.0,10.0.0.150,desktop01,Vendas
+Firefox,firefox:20.0,10.0.0.151,desktop02,Vendas
+Firefox,firefox:19.0,10.0.0.152,desktop04,Vendas
+Firefox,firefox:20.0,10.0.0.152,desktop04,Vendas
+macOS,10.5.7,192.168.1.15,research01,Laboratório
+macOS,10.5.7,192.168.1.16,research02,Laboratório
+macOS,10.5.7,192.168.1.17,research03,Laboratório
+macOS,10.5.7,192.168.1.18,research04,Laboratório
+macOS,10.5.7,192.168.1.19,research05,Laboratório
+macOS,10.5.7,192.168.1.20,research06,Laboratório
+Microsoft Office,,10.0.0.151,desktop02,Vendas
+Microsoft Office,,10.0.0.151,desktop02,Vendas
+Microsoft Office,,10.0.0.152,desktop04,Vendas
+iOS,,192.168.7.31,dp01,RH
+iOS,,192.168.7.32,dp02,RH
+iOS,,192.168.7.33,dp03,RH
+iOS,,192.168.7.34,dp04,RH
+Palo Alto,,192.168.2.13,fw02,Segurança Cibernética
+PHP,,192.168.7.2,webapp01,Desenvolvimento
+Pulse Connect Secure,9.0,10.30.2.1,vpn-srv,TI
+Sudo,1.9.5,10.30.4.1,bkp-srv01,TI
+Tomcat,6.0,192.168.7.30,webapp02,Desenvolvimento
+Tomcat,6.0,192.168.7.31,webapp03,Desenvolvimento
+vCenter Server,7.0,192.168.2.16,virt-01,Segurança Cibernética
+Windows,8.1,10.0.0.150,desktop01,Vendas
+Windows,8.1,10.0.0.151,desktop02,Vendas
+Windows,7,10.0.0.152,desktop04,Vendas
+Windows,10,192.168.7.34,dp04,RH
+Windows,8.1,192.168.7.33,dp03,RH
+Windows,10,192.168.7.32,dp02,RH
+Windows,10,192.168.7.31,dp01,RH
+Zabbix,6.0,192.168.2.2,monitoring-01,Segurança Cibernética
+Exchange Server,2013,192.168.1.55,mail.lab.fakecomp.com,Laboratório
